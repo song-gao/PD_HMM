@@ -2,4 +2,4 @@
 
 1. run training.m to run train the model using all the patients' data.
 
-2. run run_viterbi.m to decode the hidden states and show sample distribution.
+2. run run_viterbi.m to decode the hidden states and show sample distribution. And the figures would be saved in the folder as '.jpg' files and the figures in MATLAB would be closed to prevent program being frozen.
